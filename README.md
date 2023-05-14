@@ -1,4 +1,4 @@
-﻿# Hopper extractor
+﻿# Hopper Extractor
 Hopper extracts items from machines.
 
 ## Install
@@ -12,4 +12,4 @@ Hopper placed below machines will extract items and store them in internal stora
 
 ## Compatibility
 Tested on Stardew Valley 1.5.6, Windows, single-player and local multiplayer. Should work for other operating systems too.
-Compatibility with other mods is not tested, but should work unless mod patches same method `Object.minutesElapsed` as Hopper extractor mod.
+Compatibility with other mods is not tested, but should work unless mod patches same method `Object.minutesElapsed` as Hopper Extractor mod.
