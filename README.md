@@ -11,7 +11,7 @@ Hopper extracts items from machines.
 Hopper placed below machines will extract items and store them in internal storage when machine is ready for harvest.
 
 # Compatibility
-Tested on Stardew Valley 1.5.6, Windows, single-player and local multiplayer. Should work for other operating systems too.
+Tested on Stardew Valley 1.6, Windows, single-player, local multiplayer and online multiplayer. Should work for other operating systems too.
 Compatibility with other mods is not tested, but should work unless mod patches same method `Object.minutesElapsed` as Hopper Extractor mod.
 
 # Example of usage
